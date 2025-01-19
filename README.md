@@ -72,7 +72,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAthaullah-R&theme=radical&hide_border=false&layout=compact" alt="Most Used Languages" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SyedAthaullah-R&theme=radical" alt="GitHub Streaks" />
+
 
 </div>
 
@@ -89,5 +89,5 @@
 ---
 
 <div align="center">
-    <b>🛸 Let's create something extraordinary together! Reach out anytime. 😊</b>
+    <b>🛸    Let's create something extraordinary together! Reach out anytime. 😊</b>
 </div>
