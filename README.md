@@ -70,6 +70,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedathaullah-r&show_icons=true&locale=en&layout=compact" alt="syedathaullah-r" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedathaullah-r&show_icons=true&locale=en" alt="syedathaullah-r GitHub Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedathaullah-r" alt="Syed Athaullah R's GitHub Streaks" />
 
 </p>
