@@ -88,7 +88,7 @@
 - 🎮 Favorite debugging tool: A walk around the block!
 - 🥛 Milk and *Node.js* are my power combo.
 - 📚 Believer in continuous learning and growth.
-- 🐍 Python is great, but I still prefer my JavaScript adventures!
+- 🐍 Python is great, but I still prefer my Java and JavaScript adventures🎊🎢!
 - 🦾 Every error is an opportunity to understand; every challenge is a chance to grow.
 
 ---
